@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html manifest="" lang="en-US">
+<head>
+    <title>PhoneGap</title>
+      <link rel="stylesheet" href="resources/css/sencha-touch.css" type="text/css">
+  <script type="text/javascript" charset="utf-8" src="cordova-2.1.0.js"></script>
+      <script type="text/javascript" src="sencha-touch-all.js"></script>
+
+<script type="text/javascript">
+Ext.Loader.setConfig({ disableCaching: false });
+Ext.Ajax.setDisableCaching(false);
+</script>
+      
+<script type="text/javascript" src="main.js"></script>  
+</head>
+<body>
+1234
+</body>
+</html>
